@@ -1,0 +1,9 @@
+Column,30,400,150,No
+Silver Birch,40,500,250,No
+Blue Conifer,22,320,200,Yes
+Holly,20,400,180,Yes
+Maple,35,700,400,No
+Rowan,30,350,220,No
+Cypress,50,550,160,Yes
+Willow,60,800,500,No
+Magnolia,15,250,200,No
